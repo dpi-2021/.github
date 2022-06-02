@@ -1,1 +1,0 @@
-![gbm](./GbM-logo.svg)
