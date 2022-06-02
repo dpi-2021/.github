@@ -1,1 +1,1 @@
-![gbm](GbM-logo.svg)
+![gbm](./GbM-logo.svg)
